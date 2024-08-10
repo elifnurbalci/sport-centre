@@ -1,5 +1,5 @@
 {
-  "name": "sport-centre-1",
+  "name": "sport-centre",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +10,5 @@
   },
   "devDependencies": {
     "vite": "^5.4.0"
-  },
-  "dependencies": {
-    "bootstrap": "^5.3.3",
-    "bootstrap-icons": "^1.11.3"
   }
 }
